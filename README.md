@@ -13,6 +13,8 @@ Rack was written by David Peterson.
 Compiled releases of Crystal Palace are available from the Releases page and
 from the VCV Rack Plugins page.
 
+![Crystal Palace plugin](https://github.com/djpeterso23662/CrystalPalace/blob/master/res/CrystalPalace_Family.jpg)
+
 What is a Crystal Palace?
 -------------------------
 
@@ -138,9 +140,9 @@ Perspex, and I am very grateful for his guidance.
 
 Members of the [VCV Rack – Plugin Developers Facebook
 group](https://www.facebook.com/groups/2035785263299933/), including Andrew
-Belt, Lars Bjerregaard, Jeremy Wentworth, David O'Rourke, and Clément Foulc very
-kindly answered my programming questions. Thanks for your assistance and
-encouragement, everyone!
+Belt, Lars Bjerregaard, Eric Sterling, Jeremy Wentworth, David O'Rourke, and
+Clément Foulc very kindly answered my programming questions. Thanks for your
+assistance and encouragement, everyone!
 
 Finally, thanks to Dave Young for the invention and construction of the original
 Crystal Palaces, and to Brian Hodgson and the other members of the BBC
