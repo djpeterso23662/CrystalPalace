@@ -196,3 +196,7 @@ Plugins](https://vcvrack.com/plugins.html) page.
 Updated for VCV Rack verion 1.0. Released through the [VCV Rack
 Plugins](https://vcvrack.com/plugins.html) page.  Compiled with Rack-SDK v1.06.
 
+### Version 2.0.0
+
+Updated for VCV Rack verion 2.0. Released through the [VCV Rack
+Plugins](https://vcvrack.com/plugins.html) page.  Compiled with Rack-SDK v2.2.3.
