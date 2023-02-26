@@ -183,6 +183,11 @@ and is definitely worth a listen!
 mentions of the Crystal Palace. The print issue is available from
 <https://electronicsound.co.uk/product/issue-43/> for a limited time.
 
+The Science Museum Group's page, ‘Crystal Palace’ Capacitive Fader used in BBC 
+Radiophonic Workshop, has excellent color photos of the Crystal Palace (object 
+number 2012-5118/242/9) in the BBC Heritage Collection at 
+<https://collection.sciencemuseumgroup.org.uk/objects/co8241549/crystal-palace-capacitive-fader-used-in-bbc-radiophonic-workshop-sound-device>.
+
 Changes
 -------
 
