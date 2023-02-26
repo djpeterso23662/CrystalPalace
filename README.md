@@ -52,7 +52,7 @@ stationary input vanes. Each channel fades out as the next channel fades in,
 with an equal-power cross-fade.
 
 Perspex is a fairly large module and is not skiff-friendly. Perspex is 34 HP
-wide and, due to the motor and multiplexer drum, is nearly 34 HP deep as well.
+wide and, due to the motor and multiplexer drum, is nearly 140 mm deep.
 
 ### IN 1 through IN 16
 
